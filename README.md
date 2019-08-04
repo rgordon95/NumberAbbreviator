@@ -10,7 +10,7 @@ let numbers = [
 10300001
 ]
 
-<NumberAbbreviator minNumberToFormat={10000} numberDecimalsToShow={3} />
+```<NumberAbbreviator minNumberToFormat={10000} numberDecimalsToShow={3} />```
 
 // outputs would be 
 
