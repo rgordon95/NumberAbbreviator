@@ -1,7 +1,13 @@
 # React-Native-Number-Abbreviator
 React Native Library For truncating numbers with K, M, B, T labels in decimal form
 
-Example:
+
+## Installation
+```yarn add react-native-number-abbreviator```
+or
+```npm install react-native-number-abbreviator --save```
+
+## Example:
 
 let numbers = [
 7, 100, 12000,
