@@ -29,3 +29,14 @@ Props:
       decimalsToShow // number of decimal places to show
       minNumberToFormat  // length number must be >== to format
       passedInNumber // number you are formatting
+
+## Planned features / improvements
+
+1. TypeScript Types
+2. Work with negative numbers
+
+## Contributing
+
+1. Contributions are welcome!
+2. Please see open issues / any project indicators to see what would be priority, or feel free to take on your own request or bug fix.
+3. If you are interested in becoming a maintainer to this package, please email me, contact me through my website or reach out to me on linkedin.
