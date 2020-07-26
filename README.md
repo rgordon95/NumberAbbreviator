@@ -1,5 +1,5 @@
 # React-Native-Number-Abbreviator
-React Native Library For truncating numbers with K, M, B, T labels in decimal form
+React Native Library For truncating numbers with K, M, B, T labels in decimal form with
 0 Dependencies!
 
 ## Installation
