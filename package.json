@@ -1,0 +1,30 @@
+{
+    "name": "react-native-number-abbreviator",
+    "version": "0.0.1",
+    "description": "abbreviate large numbers",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/rgordon95/react-native-number-abbreviator"
+    },
+    "keywords": [
+      "react-component",
+      "react-native",
+      "ios",
+      "android",
+      "windows",
+      "device",
+      "number",
+      "abbreviator"
+    ],
+    "author": "Richard Gordon (https://github.com/rgordon95)",
+    "license": "MIT",
+    "devDependencies": {
+    },
+    "eslintConfig": {
+      "extends": "@react-native-community"
+    },
+    "dependencies": {},
+    "publishConfig": { "registry": "https://npm.pkg.github.com/@rgordon95" }
+
+  }
